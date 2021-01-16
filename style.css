@@ -1,0 +1,20 @@
+.nav-margin{
+    margin-right: 3em;
+}
+.panda-card{
+    border: none;
+}
+.panda-card-footer{
+    background-color: white;
+    border: none;
+}
+
+
+@media (max-width: 786px){
+    .small-center{
+        text-align: center;
+    }
+    .direction-reverse{
+        flex-direction: column-reverse;
+    }
+}
